@@ -4,7 +4,7 @@
 Console 에 접속하여 Managed 를 선택합니다. 
 
 매니지드 상품을 선택(Managed Basic / Managed Pro) 하여 상품 이용 신청을 합니다. 
-이미지 1 
+![[그림 1] 매니지드 상품](http://static.toastoven.net/prod_managed/managed_1.jpg)
 
 instance 명을 입력합니다. 
 instance 명은 n 개를 입력할 수 있으며, `'` 로 구분하여 입력합니다. 
