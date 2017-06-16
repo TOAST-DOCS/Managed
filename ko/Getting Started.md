@@ -10,11 +10,6 @@ instance 명을 입력합니다.
 instance 명은 n 개를 입력할 수 있으며, `'` 로 구분하여 입력합니다. 
 ![[그림 2] Managed 상품 이용 신청](http://static.toastoven.net/prod_managed/managed_2.jpg)
 
-신청하게 되면 아래의 안내 문구가 노출됩니다. 
-![[그림 3] 신청 확인](http://static.toastoven.net/prod_managed/managed_3.jpg)
-
-확인을 클릭하면 Managed 상품 신청이 완료됩니다. 
-![[그림 4] 신청 완료](http://static.toastoven.net/prod_managed/managed_4.jpg)
 
 Managed 신청 내역은 Managed 상품 화면에서 확인이 가능합니다. 
 ![[그림 5] 이용 현황](http://static.toastoven.net/prod_managed/managed_5.jpg)
