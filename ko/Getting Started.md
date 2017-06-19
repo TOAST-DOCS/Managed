@@ -7,7 +7,7 @@ Console 에 접속하여 Managed 를 선택합니다.
 ![[그림 1] Managed 상품](http://static.toastoven.net/prod_managed/managed_1.jpg)
 
 instance 명을 입력합니다. 
-instance 명은 n 개를 입력할 수 있으며, `'` 로 구분하여 입력합니다. 
+instance 명은 n 개를 입력할 수 있으며, 쉼표(,) 로 구분하여 입력합니다. 
 ![[그림 2] Managed 상품 이용 신청](http://static.toastoven.net/prod_managed/managed_2.jpg)
 
 
