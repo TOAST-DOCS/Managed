@@ -1,21 +1,21 @@
-## Management > Managed > Console Guide
+## Management > Managed > コンソール使用ガイド
 
-## 상품 이용 
-Console 에 접속하여 Managed 를 선택합니다. 
+## サービスの利用 
+**TOAST Console**に接続してManagedを選択します。 
 
-매니지드 상품을 선택(Managed Basic / Managed Pro) 하여 상품 이용 신청을 합니다. 
-![[그림 1] Managed 상품](http://static.toastoven.net/prod_managed/managed_1.jpg)
+希望するManaged(マネージド)サービスを選択(Managed Basic/Managed Pro)します。 
+![[図1] Managedサービス](http://static.toastoven.net/prod_managed/managed_1.jpg)
 
-instance 명을 입력합니다. 
-instance 명은 n 개를 입력할 수 있으며, 쉼표(,) 로 구분하여 입력합니다. 
-![[그림 2] Managed 상품 이용 신청](http://static.toastoven.net/prod_managed/managed_2.jpg)
+インスタンス名を入力します。 
+インスタンス名はn個入力でき、カンマ(,)で区切ります。
+![[図2] Managedサービスの利用申請](http://static.toastoven.net/prod_managed/managed_2.jpg)
 
 
-Managed 신청 내역은 Managed 상품 화면에서 확인이 가능합니다. 
-![[그림 5] 이용 현황](http://static.toastoven.net/prod_managed/managed_5.jpg)
+Managedを申請した内容は、Managedサービス画面で確認できます。 
+![[図5]利用状況](http://static.toastoven.net/prod_managed/managed_5.jpg)
 
-## 상품 종료 
-Console 에 접속하여 Managed 를 선택합니다.
-이용 중인 Managed 상품의 이용 현황을 확인 하여 종료하고자 하는 상품의 종료 신청을 합니다. 
+## サービス終了 
+**TOAST Console**に接続し、**Managed**を選択します。
+利用中のManagedサービスの利用状況を確認し、終了するサービスの終了申請を行います。
 
-![[그림 6] Managed 상품 이용 종료 신청](http://static.toastoven.net/prod_managed/managed_6.jpg)
+![[図6] Managedサービスの利用終了申請](http://static.toastoven.net/prod_managed/managed_6.jpg)
