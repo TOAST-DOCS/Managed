@@ -1,7 +1,7 @@
 ## Management > Managed > コンソール使用ガイド
 
 ## サービスの利用
-2023년 06월 27일 이전에 사용하시던 Managed 서비스는 그대로 이용하실 수 있으며, 해지 신청도 콘솔을 통해 가능합니다.
+2023年6月27日以前に使用していたManagedサービスはそのまま利用することができ、コンソールからサービスの解約を申請することもできます。
 
 Managedを申請した内容は、Managedサービス画面で確認できます。 
 ![[図5]利用状況](http://static.toastoven.net/prod_managed/managed_5.jpg)
