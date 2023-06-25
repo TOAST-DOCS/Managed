@@ -1,15 +1,7 @@
 ## Management > Managed > コンソール使用ガイド
 
-## サービスの利用 
-**NHN Cloud Console**に接続してManagedを選択します。 
-
-希望するManaged(マネージド)サービスを選択(Managed Basic/Managed Pro)します。 
-![[図1] Managedサービス](http://static.toastoven.net/prod_managed/managed_1.jpg)
-
-インスタンス名を入力します。 
-インスタンス名はn個入力でき、カンマ(,)で区切ります。
-![[図2] Managedサービスの利用申請](http://static.toastoven.net/prod_managed/managed_2.jpg)
-
+## サービスの利用
+2023年6月27日以前に使用していたManagedサービスはそのまま利用することができ、コンソールからサービスの解約を申請することもできます。
 
 Managedを申請した内容は、Managedサービス画面で確認できます。 
 ![[図5]利用状況](http://static.toastoven.net/prod_managed/managed_5.jpg)
