@@ -1,15 +1,7 @@
 ## Management > Managed > Console Guide
 
-## 상품 이용 
-Console 에 접속하여 Managed 를 선택합니다. 
-
-매니지드 상품을 선택(Managed Basic / Managed Pro) 하여 상품 이용 신청을 합니다. 
-![[그림 1] Managed 상품](http://static.toastoven.net/prod_managed/managed_1.jpg)
-
-instance 명을 입력합니다. 
-instance 명은 n 개를 입력할 수 있으며, 쉼표(,) 로 구분하여 입력합니다. 
-![[그림 2] Managed 상품 이용 신청](http://static.toastoven.net/prod_managed/managed_2.jpg)
-
+## 상품 이용
+2023년 6월 27일 이전에 사용하시던 Managed 서비스는 그대로 이용할 수 있으며, 콘솔에서 서비스 해지 신청을 할 수도 있습니다.
 
 Managed 신청 내역은 Managed 상품 화면에서 확인이 가능합니다. 
 ![[그림 5] 이용 현황](http://static.toastoven.net/prod_managed/managed_5.jpg)
