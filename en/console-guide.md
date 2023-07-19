@@ -1,13 +1,13 @@
 ## Management > Managed > Console Guide
 
-## 상품 이용
-2023년 6월 27일 이전에 사용하시던 Managed 서비스는 그대로 이용할 수 있으며, 콘솔에서 서비스 해지 신청을 할 수도 있습니다.
+## Use Product
+You can still use the Managed service you used before June 27, 2023, and apply for service cancellation in the console.
 
-Managed 신청 내역은 Managed 상품 화면에서 확인이 가능합니다. 
-![[그림 5] 이용 현황](http://static.toastoven.net/prod_managed/managed_5.jpg)
+Application details for Managed can be found on the Managed product screen.
+![[Figure 5] Usage status](http://static.toastoven.net/prod_managed/managed_5.jpg)
 
-## 상품 종료 
-Console 에 접속하여 Managed 를 선택합니다.
-이용 중인 Managed 상품의 이용 현황을 확인 하여 종료하고자 하는 상품의 종료 신청을 합니다. 
+## Terminate Product 
+Access the console and select Managed.
+Check the usage status of the Managed product in use and apply for termination of the product. 
 
-![[그림 6] Managed 상품 이용 종료 신청](http://static.toastoven.net/prod_managed/managed_6.jpg)
+![[Figure 6] Application for Termination of Managed Product Use](http://static.toastoven.net/prod_managed/managed_6.jpg)
